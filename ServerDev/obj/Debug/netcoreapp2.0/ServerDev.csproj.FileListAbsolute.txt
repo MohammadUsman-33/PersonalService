@@ -1,0 +1,22 @@
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.deps.json
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.runtimeconfig.json
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.runtimeconfig.dev.json
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.dll
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.pdb
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.csproj.CoreCompileInputs.cache
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.AssemblyInfoInputs.cache
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.AssemblyInfo.cs
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.dll
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.pdb
+C:\Users\adeel.tariq\source\repos\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.csprojAssemblyReference.cache
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.deps.json
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.runtimeconfig.json
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.runtimeconfig.dev.json
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.dll
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\bin\Debug\netcoreapp2.0\ServerDev.pdb
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.csprojAssemblyReference.cache
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.csproj.CoreCompileInputs.cache
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.AssemblyInfoInputs.cache
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.AssemblyInfo.cs
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.dll
+D:\BellStones\OneDrive - Highnoon Laboratories Limited\ServerDev\ServerDev\obj\Debug\netcoreapp2.0\ServerDev.pdb
